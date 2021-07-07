@@ -1,4 +1,5 @@
-# CPP-libraries- Segment Tree , Disjoint Union find
+# CPP-libraries and Algorithm on graphs
+
 General purpose segment tree library and DSU.
 
 include SegmentTree.h
